@@ -4,9 +4,7 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,postgres,tailwind,figma&theme=light" />
 </p>
 
-<br>
-
-<p align="left">
+<p align="left" style="margin-top: 8px;">
   <img src="https://img.shields.io/badge/Claude-AI%20Assistant-111111?style=flat&logo=anthropic&logoColor=white" />
 </p>
 
