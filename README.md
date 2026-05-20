@@ -1,4 +1,4 @@
-## #こんにちは, I'm Clem 👋
+## こんにちは, I'm Clem 👋
 
 <!--
 **C33620/C33620** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
