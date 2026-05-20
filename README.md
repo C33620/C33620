@@ -1,5 +1,13 @@
 ## こんにちは, I'm Clem 🙏🏻
 
+<br>
+
+frontend engineer。  
+systems-thinking–driven。  
+enjoys learning new stacks。
+
+<br>
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,postgres,tailwind,figma&theme=light" />
 </p>
