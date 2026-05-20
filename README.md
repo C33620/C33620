@@ -20,7 +20,7 @@ prompt engineering。
   <img src="https://img.shields.io/badge/Claude-AI%20Assistant-111111?style=flat&logo=anthropic&logoColor=white" />
 </p>
 
-• • • • • • • • • • • • • • • • • • • • • • • • • • •  • • • 学びが結果出じゃなくてプロセス• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
+• • • • • • • • • • • • • • • • • • • • • • • • • • •  • • • 学びが結果出じゃなくてプロセス• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
 
 <!--
