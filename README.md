@@ -1,7 +1,12 @@
 ## こんにちは, I'm Clem 🙏🏻
 
-<p align="left" className="flex flex-row">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,postgres,tailwind,figma&theme=light" />
+</p>
+
+<br>
+
+<p align="left">
   <img src="https://img.shields.io/badge/Claude-AI%20Assistant-111111?style=flat&logo=anthropic&logoColor=white" />
 </p>
 
