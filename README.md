@@ -1,7 +1,7 @@
 ## こんにちは, I'm Clem 🙏🏻
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,tailwind,figma" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,postgres,tailwind,figma&theme=light" />
 </p>
 
 <!--
