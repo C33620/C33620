@@ -2,14 +2,18 @@
 
 <br>
 
-frontend engineer。  
+concept-to-interface。  
 systems-thinking–driven。  
-enjoys learning new stacks。
+prompt engineering。
 
 <br>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,postgres,tailwind,figma&theme=light" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Web3.js-ethereum-orange?style=flat&logo=ethereum&logoColor=white" />
 </p>
 
 <p align="left" style="margin-top: 8px;">
