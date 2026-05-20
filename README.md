@@ -20,7 +20,7 @@ prompt engineering。
   <img src="https://img.shields.io/badge/Claude-AI%20Assistant-111111?style=flat&logo=anthropic&logoColor=white" />
 </p>
 
-
+学びが結果出じゃなくてプロセス
 
 <!--
 **C33620/C33620** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
