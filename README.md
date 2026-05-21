@@ -9,7 +9,7 @@ prompt engineering。
 <br>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,postgres,tailwind,figma,webflow&theme=light" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,postgres,tailwind,figma&theme=light" />
 </p>
 
 <p align="left">
