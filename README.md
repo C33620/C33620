@@ -21,7 +21,24 @@ prompt engineering。
 </p>
 
 • • • • • • • • • • • • • • • • • • • • • • • • • • •  • • • 学びが結果出じゃなくてプロセス• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
+```text
+┌──────────────────────────────┐
+│      AI WORKFLOW SYSTEM      │
+└──────────────┬───────────────┘
+               │
+     ┌─────────┼─────────┐
+     │         │         │
+     ▼         ▼         ▼
 
+ Strategy    Coding    Visual QA
+ GPT 5.2     Claude    Gemini
+
+     │         │         │
+     └─────────┼─────────┘
+               ▼
+
+      Production Delivery
+```
 
 <!--
 **C33620/C33620** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
