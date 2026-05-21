@@ -2,9 +2,9 @@
 
 <br>
 
-concept-to-interface。  
-systems-thinking–driven。  
-AI Workflow。
+Concept-to-interface。  
+Systems-thinking–driven。  
+AI workflow。
 
 <br>
 
