@@ -36,14 +36,14 @@ I’m a solution-oriented technologist with 10 years of client-facing experience
 │            IDEA              │
 └──────────────┬───────────────┘
                │
-     ┌─────────┼─────────┐
-     │         │         │
-     ▼         ▼         ▼
-
- Strategy    Coding    Visual QA
- GPT 5.2     Claude    Gemini
-
-     │         │         │
+     ┌─────────┼─────────┐  
+     │         │         │  ──────────────────┐
+     ▼         ▼         ▼                    │
+                                              ▼
+ Strategy    Coding    Visual QA           Iterations
+   GPT       Claude     Gemini                │  
+                                              ▼
+     │         │         │  ──────────────────┘
      └─────────┼─────────┘
                ▼
 
