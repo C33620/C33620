@@ -1,4 +1,4 @@
-## こんにちは, I'm Clem 🙏🏻
+## Bienvenue, I'm Clem よろしくお願いいたします 🙏🏻
 
 <br>
 
