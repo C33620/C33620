@@ -54,6 +54,8 @@ I’m a <mark style="background-color:yellow;">solution-oriented technologist</m
 
 ## 🌟 DAO Project: KyotoTechMeetup
 
+An on-chain governance DAO built with Hardhat 3, Solidity, and OpenZeppelin Governor. Token holders can delegate voting power, submit proposals, vote on governance decisions, queue approved actions through a timelock, and execute them on-chain through a structured governance lifecycle.
+
 🔗 Repository: https://github.com/C33620/dao-project
 <!--
 **C33620/C33620** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
