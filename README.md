@@ -2,7 +2,7 @@
 
 <br>
 
-I’m a <span style="background-color: yellow;">solution-oriented technologist</span> with 10 years of client-facing experience and 5 years in web development and Web3. I enjoy turning complex ideas into practical solutions that are both technically solid and easy for people to use. My background in client service, problem-solving, and multilingual communication in French, English and Japanese helps me connect with people and build with their needs in mind。
+I’m a <mark style="background-color:yellow;">solution-oriented technologist</mark> with <mark style="background-color:yellow;">10 years of client-facing experience</mark> and <mark style="background-color:yellow;">5 years in web development and Web3</mark>. I enjoy turning complex ideas into practical solutions that are both technically solid and easy for people to use. My background in client service, problem-solving, and <mark style="background-color:yellow;">multilingual communication in French, English and Japanese</mark> helps me connect with people and build with their needs in mind。
 
 <br>
 
