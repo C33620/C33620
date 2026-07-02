@@ -18,6 +18,13 @@ I’m a solution-oriented technologist with 10 years of client-facing experience
   <img src="https://img.shields.io/badge/Claude-AI%20Assistant-111111?style=flat&logo=anthropic&logoColor=white" />
 </p>
 
+
+## Languages
+
+- French: Native
+- English: Fluent
+- Japanese: Conversational
+  
 • • • • • • • • • • • • • • • • • • • • • • • • • • •  • • • 学びが結果出じゃなくてプロセス• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 ```text
 ┌──────────────────────────────┐
