@@ -50,7 +50,9 @@ I’m a <mark style="background-color:yellow;">solution-oriented technologist</m
 
       Production Delivery
 ```
+## 🌟 DAO Project: KyotoTechMeetup
 
+🔗 Repository: https://github.com/C33620/dao-project
 <!--
 **C33620/C33620** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
