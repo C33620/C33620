@@ -2,9 +2,7 @@
 
 <br>
 
-Concept-to-interface。  
-Systems-thinking–driven。  
-AI workflow。
+I’m a solution-oriented technologist with 10 years of client-facing experience and 5 years of coding in web development and Web3. I enjoy turning complex ideas into practical solutions that are both technically solid and easy for people to use. My background in client service, problem-solving, and multilingual communication in French, English, and Japanese helps me connect with people and build with their needs in mind。
 
 <br>
 
