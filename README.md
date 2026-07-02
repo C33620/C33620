@@ -40,7 +40,7 @@ I’m a solution-oriented technologist with 10 years of client-facing experience
      │         │         │  ──────────────────┐
      ▼         ▼         ▼                    │
                                               ▼
- Strategy    Coding    Visual QA           Iterations
+ Strategy    Coding    Visual QA    Iterations / Code Reviews
    GPT       Claude     Gemini                │  
                                               ▼
      │         │         │  ──────────────────┘
