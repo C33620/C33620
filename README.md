@@ -27,8 +27,17 @@ I’m a <mark style="background-color:yellow;">solution-oriented technologist</m
 - **French**: Native — Compréhension culturelle et professionnelle des attentes des clients et de leurs méthodes de travail。
 - **English**: Fluent — written and spoken, used for technical discussions, documentation and international communication。
 - **Japanese**: Conversational — 日本文化やコミュニケーションスタイルへの理解を活かし、日本語話者の方々と良好な関係を築き、円滑にコミュニケーションを取ることができます。
+  
+<br>
 
+## 👥 Community Leadership
 
+ Organizer of [**KyotoTechMeetup**](https://kyototechmeetup.com/), a tech community dedicated to connecting developers, designers, researchers, and founders to share knowledge and foster collaboration.
+ 
+We regularly host workshops and hack days designed to encourage creativity, promote collaborative problem-solving, and provide opportunities for participants to explore new technologies and development stacks in a hands-on environment.
+
+Through our partnership with **Codex**, we continue to expand learning opportunities and strengthen connections within the local tech ecosystem.
+  
 <br>
   
 ## 🤖 AI Workflow
