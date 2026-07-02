@@ -20,17 +20,20 @@ I’m a solution-oriented technologist with 10 years of client-facing experience
   <img src="https://img.shields.io/badge/Claude-AI%20Assistant-111111?style=flat&logo=anthropic&logoColor=white" />
 </p>
 
+<br>
 
 ## Languages
 
 - French: Native
 - English: Fluent
 - Japanese: Conversational
-  
 
+<br>
+  
+## AI Workflow
 ```text
 ┌──────────────────────────────┐
-│      AI WORKFLOW SYSTEM      │
+│            IDEA              │
 └──────────────┬───────────────┘
                │
      ┌─────────┼─────────┐
