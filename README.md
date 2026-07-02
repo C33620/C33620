@@ -6,7 +6,7 @@ I’m a <mark style="background-color:yellow;">solution-oriented technologist</m
 
 <br>
 
-## Stack
+## 🚀 Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,postgres,solidity,tailwind,figma&theme=light" />
@@ -22,15 +22,16 @@ I’m a <mark style="background-color:yellow;">solution-oriented technologist</m
 
 <br>
 
-## Languages
+## 🌍 Languages
 
-- French: Native
-- English: Fluent
-- Japanese: Conversational
+- **French**: Native — Compréhension culturelle et professionnelle des attentes des clients et de leurs méthodes de travail。
+- **English**: Fluent — written and spoken, used for technical discussions, documentation and international communication。
+- **Japanese**: Conversational — 日本文化やコミュニケーションスタイルへの理解を活かし、日本語話者の方々と良好な関係を築き、円滑にコミュニケーションを取ることができます。
+
 
 <br>
   
-## AI Workflow
+## 🤖 AI Workflow
 ```text
 ┌──────────────────────────────┐
 │            IDEA              │
