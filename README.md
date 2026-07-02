@@ -50,6 +50,8 @@ I’m a <mark style="background-color:yellow;">solution-oriented technologist</m
 
       Production Delivery
 ```
+<br>
+
 ## 🌟 DAO Project: KyotoTechMeetup
 
 🔗 Repository: https://github.com/C33620/dao-project
