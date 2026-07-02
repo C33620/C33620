@@ -6,6 +6,8 @@ I’m a solution-oriented technologist with 10 years of client-facing experience
 
 <br>
 
+## Stack
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,postgres,solidity,tailwind,figma&theme=light" />
 </p>
@@ -25,7 +27,7 @@ I’m a solution-oriented technologist with 10 years of client-facing experience
 - English: Fluent
 - Japanese: Conversational
   
-• • • • • • • • • • • • • • • • • • • • • • • • • • •  • • • 学びが結果出じゃなくてプロセス• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
+
 ```text
 ┌──────────────────────────────┐
 │      AI WORKFLOW SYSTEM      │
