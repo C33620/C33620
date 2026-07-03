@@ -36,7 +36,7 @@ I’m a <mark style="background-color:yellow;">solution-oriented technologist</m
  
 We regularly host workshops and hack days designed to encourage creativity, promote collaborative problem-solving, and provide opportunities for participants to explore new technologies and development stacks in a hands-on environment.
 
-Through our partnership with **Codex**, we continue to expand learning opportunities and strengthen connections within the local tech ecosystem.
+Through our partnership with [**Codex**](https://openai.com/codex/), we continue to expand learning opportunities and strengthen connections within the local tech ecosystem.
   
 <br>
   
